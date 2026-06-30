@@ -5,8 +5,25 @@ still runs even when Langfuse keys are not configured.
 """
 
 import os
+import sys
 
 from dotenv import load_dotenv
+
+
+# Keep CrewAI demo logs readable on Windows terminals before CrewAI is imported.
+if os.name == "nt":
+    try:
+        import ctypes
+
+        ctypes.windll.kernel32.SetConsoleOutputCP(65001)
+        ctypes.windll.kernel32.SetConsoleCP(65001)
+    except Exception:
+        pass
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
 
 from crew import run_healthcare_crew
 from monitoring.langfuse_config import log_event
@@ -102,4 +119,3 @@ if __name__ == "__main__":
         save_response_to_file(error_response, OUTPUT_PATH)
         log_event("error_response_saved_to_file", {"output_path": OUTPUT_PATH})
         print(f"Error response saved to: {OUTPUT_PATH}")
-
