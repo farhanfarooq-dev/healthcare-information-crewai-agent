@@ -173,6 +173,26 @@ python app.py
 
 The application reads sample question number 2 from `data/sample_questions.txt`, runs the CrewAI workflow, prints the final answer in the terminal, and saves the response to `outputs/healthcare_response.md`.
 
+
+## Running the Web App
+
+This project also includes a simple Streamlit web interface. It lets a user type a healthcare-related question in the browser and run the existing CrewAI workflow.
+
+Activate the virtual environment and start Streamlit:
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+streamlit run streamlit_app.py
+```
+
+The local browser URL is usually:
+
+```text
+http://localhost:8501
+```
+
+The web app displays the final response as markdown and saves it to `outputs/healthcare_response.md`.
+
 ## Example Input
 
 ```text
@@ -228,3 +248,4 @@ python app.py
 ## Final Student Note
 
 This project demonstrates a structured, monitorable, and safe agentic AI workflow using CrewAI.
+
