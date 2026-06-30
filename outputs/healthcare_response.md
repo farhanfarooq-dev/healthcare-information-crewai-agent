@@ -1,40 +1,37 @@
 ```markdown
-# Healthcare Information: Chest Pain and Shortness of Breath
+# Dietary Advice After Angioplasty
 
-## User Question Summary
-You have reported experiencing chest pain accompanied by shortness of breath. These symptoms can indicate a serious medical condition and require careful attention.
+## User Question Summary  
+You asked about what foods to eat and avoid following an angioplasty procedure.
 
-## General Healthcare Information
-Chest pain can arise from various causes, ranging from minor issues like muscle strain, indigestion, or anxiety, to serious conditions involving the heart or lungs. Shortness of breath alongside chest pain increases the concern for potentially life-threatening problems such as a heart attack, pulmonary embolism, or other cardiac and respiratory emergencies.
+## General Healthcare Information  
+After angioplasty, adopting a heart-healthy diet is important to support healing and to reduce the chance of further heart problems. Key dietary recommendations generally include:
 
-Common non-emergency causes of chest pain include:
-- Muscle strain
-- Acid reflux or indigestion
-- Anxiety or panic attacks
-- Minor chest wall irritation
+- **Eat plenty of fruits and vegetables:** These provide important nutrients and fiber.  
+- **Choose whole grains over refined grains:** Whole grains help improve heart health.  
+- **Consume lean protein sources:** Options such as fish, poultry, beans, and legumes are preferable.  
+- **Limit saturated fats:** Found in red meat, butter, and full-fat dairy products, these can raise cholesterol levels.  
+- **Avoid trans fats:** Common in many processed and fried foods, trans fats negatively impact heart health.  
+- **Reduce sodium (salt) intake:** Helps to control blood pressure, an important factor in heart health.  
+- **Limit added sugars and sugary beverages:** Excess sugar intake can raise risk factors for heart disease.  
+- **Avoid excessive alcohol consumption:** Alcohol can interfere with heart medications and negatively affect heart function.  
 
-Self-care measures include stopping any strenuous activity, resting, and monitoring your symptoms. However, you should be vigilant about specific warning signs described below.
+Maintaining proper hydration and a balanced diet contributes to overall cardiovascular wellness.
 
-## Safety Review
-**Warning Level:** High  
-**Red Flags Detected:** Chest pain combined with shortness of breath is a serious symptom cluster.  
-**Safety Message:** These symptoms may indicate an urgent medical condition that requires prompt evaluation.
+**Local reference content was not available for this topic.**
 
-## Recommended Next Steps
-- **Seek emergency medical help immediately** if you have:  
-  - Severe or sudden chest pain  
-  - Chest pain spreading to your arm, back, neck, or jaw  
-  - Difficulty breathing or shortness of breath  
-  - Dizziness, fainting, sweating, or confusion  
+## Safety Review  
+No immediate safety concerns were identified from your question. However, dietary requirements can vary based on your specific health condition, medications, and recovery progress. Monitoring your health and reporting any new symptoms such as chest pain, shortness of breath, or swelling to your healthcare provider is important.
 
-- Call emergency services (e.g., 911 or your local emergency number) or go to the nearest emergency room without delay.
+## Recommended Next Steps  
+- Consult your cardiologist or a registered dietitian for personalized nutrition advice tailored to your health status and medications.  
+- Follow-up regularly with your healthcare team to monitor your heart health and recovery.  
+- Gradually adopt and maintain heart-healthy eating habits to support long-term cardiovascular health.
 
-- If symptoms are mild but persistent or worsening, consult your healthcare provider as soon as possible for evaluation.
-
-## Important Disclaimer
-This information is intended for general understanding only. It is **not** a medical diagnosis or a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
+## Medication Safety Note  
+When discussing medications, dosages, or treatment plans, it is essential to follow the instructions provided by your healthcare provider. Never change or stop prescribed medications without medical approval. If you have questions about how your diet may interact with your medications, speak with your doctor or pharmacist.
 
 ---
 
-Your safety is paramount. Do not hesitate to seek immediate help if you experience these symptoms.
+**Disclaimer:** This is general information only and not a medical diagnosis.
 ```

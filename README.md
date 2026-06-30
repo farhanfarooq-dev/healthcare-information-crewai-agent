@@ -174,6 +174,11 @@ python app.py
 The application reads sample question number 2 from `data/sample_questions.txt`, runs the CrewAI workflow, prints the final answer in the terminal, and saves the response to `outputs/healthcare_response.md`.
 
 
+
+## Open Healthcare Questions
+
+The app supports open healthcare questions. It uses the local knowledge base when possible and falls back to safe LLM-generated general information when the topic is not available locally. The response should still remain cautious, non-diagnostic, and should not prescribe medicine or dosage.
+
 ## Running the Web App
 
 This project also includes a simple Streamlit web interface. It lets a user type a healthcare-related question in the browser and run the existing CrewAI workflow.
@@ -248,4 +253,5 @@ python app.py
 ## Final Student Note
 
 This project demonstrates a structured, monitorable, and safe agentic AI workflow using CrewAI.
+
 

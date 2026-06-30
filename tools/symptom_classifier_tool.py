@@ -27,6 +27,9 @@ class SymptomClassifierTool:
             "dehydration": ["thirsty", "dehydration", "dehydrated", "water", "hydration"],
             "cough": ["cough", "coughing"],
             "chest pain": ["chest pain", "severe chest pain"],
+            "diabetes": ["diabetes", "blood sugar", "glucose"],
+            "stomach pain": ["stomach pain", "abdominal pain", "belly pain"],
+            "medication safety": ["medicine", "medication", "dosage", "dose", "treatment"],
         }
 
         symptom_keywords = {
@@ -37,6 +40,8 @@ class SymptomClassifierTool:
             "cough": ["cough", "coughing"],
             "chest pain": ["chest pain", "severe chest pain"],
             "thirst": ["thirsty", "dehydrated", "dehydration"],
+            "stomach pain": ["stomach pain", "abdominal pain", "belly pain"],
+            "medication question": ["medicine", "medication", "dosage", "dose", "treatment"],
         }
 
         for topic, keywords in topic_keywords.items():
@@ -79,3 +84,4 @@ if __name__ == "__main__":
     tool = SymptomClassifierTool()
     sample_question = "I have a headache and mild fever. What general information should I know?"
     print(tool.run(sample_question))
+
