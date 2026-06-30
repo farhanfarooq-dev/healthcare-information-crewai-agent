@@ -1,0 +1,116 @@
+﻿{
+  "topics": [
+    {
+      "topic": "headache",
+      "general_information": "A headache is pain or discomfort in the head or face area. Many headaches are mild and temporary, but some can be linked to more serious symptoms.",
+      "common_non_emergency_causes": [
+        "Stress or tiredness",
+        "Not drinking enough water",
+        "Poor sleep",
+        "Eye strain",
+        "Mild viral illness"
+      ],
+      "self_care_tips": [
+        "Rest in a quiet place.",
+        "Drink enough fluids.",
+        "Avoid bright light if it makes symptoms worse.",
+        "Track when the headache started and any other symptoms."
+      ],
+      "when_to_seek_help": "Seek medical help urgently for a sudden severe headache, headache with confusion, fainting, weakness on one side, chest pain, difficulty breathing, or symptoms that are getting worse.",
+      "disclaimer": "This is general information only and is not a diagnosis or treatment plan. Please consult a qualified healthcare professional for personal medical advice."
+    },
+    {
+      "topic": "fever",
+      "general_information": "A fever means the body temperature is higher than usual. It is often a sign that the body is responding to an infection or inflammation.",
+      "common_non_emergency_causes": [
+        "Common cold or flu-like illness",
+        "Mild viral infection",
+        "Overheating",
+        "Recent physical exertion"
+      ],
+      "self_care_tips": [
+        "Rest and avoid overexertion.",
+        "Drink fluids to stay hydrated.",
+        "Wear comfortable clothing and avoid overheating.",
+        "Monitor symptoms and temperature changes."
+      ],
+      "when_to_seek_help": "Seek medical help if fever is very high, lasts for several days, occurs with chest pain, shortness of breath, confusion, fainting, stiff neck, or symptoms that rapidly worsen.",
+      "disclaimer": "This is general information only and is not a diagnosis or treatment plan. Please consult a qualified healthcare professional for personal medical advice."
+    },
+    {
+      "topic": "high blood pressure",
+      "general_information": "High blood pressure means the force of blood against artery walls is higher than recommended over time. It often has no obvious symptoms and is usually measured with a blood pressure device.",
+      "common_non_emergency_causes": [
+        "Family history",
+        "High salt intake",
+        "Low physical activity",
+        "Stress",
+        "Some long-term health conditions"
+      ],
+      "self_care_tips": [
+        "Check blood pressure with a reliable device if available.",
+        "Reduce salt intake where appropriate.",
+        "Stay physically active within safe limits.",
+        "Discuss readings with a healthcare professional."
+      ],
+      "when_to_seek_help": "Seek urgent medical help if high blood pressure is linked with chest pain, shortness of breath, severe headache, confusion, weakness on one side, or vision changes.",
+      "disclaimer": "This is general information only and is not a diagnosis or treatment plan. Please consult a qualified healthcare professional for personal medical advice."
+    },
+    {
+      "topic": "dehydration",
+      "general_information": "Dehydration happens when the body does not have enough fluids. Mild dehydration can cause thirst, dry mouth, tiredness, darker urine, or dizziness.",
+      "common_non_emergency_causes": [
+        "Not drinking enough fluids",
+        "Hot weather",
+        "Exercise or sweating",
+        "Vomiting or diarrhea",
+        "Fever"
+      ],
+      "self_care_tips": [
+        "Drink water regularly through the day.",
+        "Increase fluids during heat or exercise.",
+        "Notice urine color and thirst as simple hydration clues.",
+        "Rest if feeling weak or lightheaded."
+      ],
+      "when_to_seek_help": "Seek medical help if dizziness is severe, fainting occurs, confusion appears, fluids cannot be kept down, or symptoms continue or worsen.",
+      "disclaimer": "This is general information only and is not a diagnosis or treatment plan. Please consult a qualified healthcare professional for personal medical advice."
+    },
+    {
+      "topic": "cough",
+      "general_information": "A cough is a reflex that helps clear the airways. It can happen with mild infections, irritation, allergies, or other breathing-related issues.",
+      "common_non_emergency_causes": [
+        "Common cold",
+        "Throat irritation",
+        "Allergies",
+        "Dry air",
+        "Mild viral illness"
+      ],
+      "self_care_tips": [
+        "Drink fluids to soothe the throat.",
+        "Rest and avoid smoke or strong odors.",
+        "Use a humid environment if dry air worsens the cough.",
+        "Monitor how long the cough lasts and whether new symptoms appear."
+      ],
+      "when_to_seek_help": "Seek medical help if cough comes with chest pain, shortness of breath, blue lips, coughing blood, high fever, or symptoms that worsen or last a long time.",
+      "disclaimer": "This is general information only and is not a diagnosis or treatment plan. Please consult a qualified healthcare professional for personal medical advice."
+    },
+    {
+      "topic": "chest pain",
+      "general_information": "Chest pain can have many causes, some minor and some serious. Because it can be linked to urgent conditions, it should be treated carefully.",
+      "common_non_emergency_causes": [
+        "Muscle strain",
+        "Indigestion or reflux-like discomfort",
+        "Anxiety or stress",
+        "Minor chest wall irritation"
+      ],
+      "self_care_tips": [
+        "Stop strenuous activity and rest.",
+        "Notice whether pain is severe, sudden, spreading, or linked with breathing difficulty.",
+        "Do not ignore chest pain that feels unusual or intense.",
+        "Seek professional guidance if unsure."
+      ],
+      "when_to_seek_help": "Seek urgent medical help immediately for severe chest pain, chest pain with shortness of breath, dizziness, fainting, sweating, confusion, or pain spreading to the arm, back, neck, or jaw.",
+      "disclaimer": "This is general information only and is not a diagnosis or treatment plan. Please consult a qualified healthcare professional for personal medical advice."
+    }
+  ]
+}
